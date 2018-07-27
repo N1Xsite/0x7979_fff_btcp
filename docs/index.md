@@ -4,13 +4,9 @@ ___
 
 ## Iterations
 
-| # | `Tag` | Link |
+| i# | `Tag` | Link |
 |----|----|----|
-| 0 | 0x000 | [link](https://n1x.site/0x7979_fff_btcp/0x000) |
-| 1 | 0x001 | [link](https://n1x.site/0x7979_fff_btcp/0x001) |
-| 2 | 0x002 | [link](https://n1x.site/0x7979_fff_btcp/0x002) |
-| 3 | 0x003 | [link](https://n1x.site/0x7979_fff_btcp/0x003) |
-| 4 | 0x004 | [link](https://n1x.site/0x7979_fff_btcp/0x004) |
-| 5 | 0x005 | [link](https://n1x.site/0x7979_fff_btcp/0x005) |
-| 6 | 0x006 | [link](https://n1x.site/0x7979_fff_btcp/0x006) |
-| 7 | 0x007 | [link](https://n1x.site/0x7979_fff_btcp/0x007) |
+| 0x000 | `release` | [link](https://n1x.site/0x7979_fff_btcp/0x000) |
+| 0x001 | `draft` | [link](https://n1x.site/0x7979_fff_btcp/0x001) |
+| 0x002 | `post` | [link](https://n1x.site/0x7979_fff_btcp/0x002) |
+| 0x003 | `final` | [link](https://n1x.site/0x7979_fff_btcp/0x003) |

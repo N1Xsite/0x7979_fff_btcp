@@ -2,7 +2,7 @@
 
 ---
 
-###### View this article on [N1X.site](https://n1x.site/7979_fff_btcp/) or `@Luis`' Medium.com [article](https://medium.com/@lfernandezboluda/btcppay-the-bitcoin-private-merchants-platform-ec27ccdbc6df).
+###### View this article on [N1X.site](https://n1x.site/0x7979_fff_btcp/) or `@Luis`' Medium.com [article](https://medium.com/@lfernandezboluda/btcppay-the-bitcoin-private-merchants-platform-ec27ccdbc6df).
 
 
 
